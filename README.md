@@ -10,7 +10,7 @@ indications at the link:
 ## Getting Started
 
 * The Android App **HelloCSharp** is developed in Android Studio 3.3.
-* The Xamarin.Android App **hello-from-csharp** is developed in Visual Studio 2017
+* The Xamarin.Android App **hello-from-csharp** is developed in Visual Studio 2019
 
 ## Authors
 
